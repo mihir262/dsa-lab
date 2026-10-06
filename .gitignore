@@ -1,0 +1,10 @@
+# Build output
+a.out
+*.o
+*.out
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
